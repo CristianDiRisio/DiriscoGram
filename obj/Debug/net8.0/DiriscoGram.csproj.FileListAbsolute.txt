@@ -1,0 +1,14 @@
+C:\Users\boschini.22038\Desktop\DiriscoGram\bin\Debug\net8.0\DiriscoGram.exe
+C:\Users\boschini.22038\Desktop\DiriscoGram\bin\Debug\net8.0\DiriscoGram.deps.json
+C:\Users\boschini.22038\Desktop\DiriscoGram\bin\Debug\net8.0\DiriscoGram.runtimeconfig.json
+C:\Users\boschini.22038\Desktop\DiriscoGram\bin\Debug\net8.0\DiriscoGram.dll
+C:\Users\boschini.22038\Desktop\DiriscoGram\bin\Debug\net8.0\DiriscoGram.pdb
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.AssemblyInfoInputs.cache
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.AssemblyInfo.cs
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.csproj.CoreCompileInputs.cache
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.dll
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\refint\DiriscoGram.dll
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.pdb
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\DiriscoGram.genruntimeconfig.cache
+C:\Users\boschini.22038\Desktop\DiriscoGram\obj\Debug\net8.0\ref\DiriscoGram.dll
